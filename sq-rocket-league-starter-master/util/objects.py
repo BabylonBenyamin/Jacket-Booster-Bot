@@ -148,6 +148,11 @@ class GoslingAgent(BaseAgent):
         # override this with your strategy code
         pass
     
+    class Vector3:
+     def __init__(self, x, y, z):
+        self.x = x
+        self.y = y
+        self.z = z
 
 
 class car_object:
