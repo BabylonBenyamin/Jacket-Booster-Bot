@@ -1,5 +1,7 @@
 # sq-starter
-The starting point for bots built through Skillquest courses. Based on GoslingUtils.
+
+Hey Guys! This is the Jacket BOOSTER bot for the Rocket League bot competition!can YOU beat the BOOOSTER?!
 
 ## Course
-Find out more about our RLBot course on [our website](https://skillquest.io) or through the [Discord community](https://discord.gg/hqkKfMpPvX).
+
+Corbin's course: Find out more about our RLBot course on [our website](https://skillquest.io) or through the [Discord community](https://discord.gg/hqkKfMpPvX).
