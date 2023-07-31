@@ -70,12 +70,3 @@ class Bot(GoslingAgent):
 
 
     # this is the place where you should add more defense logic and the anti-own goal logic.
-
-
-
-
-
-
-
-
-
