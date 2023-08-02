@@ -59,7 +59,27 @@ class Bot(GoslingAgent):
             
         self.set_intent(goto(self.foe_goal.location))
 
+        # if len(d1<1) and len(d2>1):
+        #     print("ball is behind me!")
         
+        if (d1 < d2) or d1 == self.foe_goal.location.x - 10:
+            self.set_intent(goto(self.ball.location.x))
+            print("testing im behind ball")
+
+            
+            
+
+
+      
+
+
+
+
+        
+
+
+            
+         
         
     # junk area
         # if len(available_boosts) > 0:
