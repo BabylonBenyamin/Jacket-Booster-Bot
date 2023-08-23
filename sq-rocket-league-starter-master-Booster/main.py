@@ -57,7 +57,7 @@ class Bot(GoslingAgent):
             self.set_intent(goto(target_boost.location))
             return
             
-        # self.set_intent(goto(self.foe_goal.location))
+         # self.set_intent(goto(self.foe_goal.location))
         self.set_intent(self.get_closest_large_boost())
 
         # if len(d1<1) and len(d2>1):
